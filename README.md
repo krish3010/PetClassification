@@ -5,7 +5,7 @@ Instead of building our own Neural Net, We use the concept of Transfer Learning.
 
 Used Inception Network Layer 7 as the intermediary weights and extended 2 layers from that. 
 
-I have also saved the model so that I need not do the training again. 
+I have also saved the model so that I need not do the training again. The final model can be found at this link: https://drive.google.com/file/d/131qlSAaY9jzF1eiR7YVzTDNHO_ifYhm6/view?usp=sharing
 
 I added an option of uploading an Image and then it gives out the ouput whether its a cat or a dog. It has almost 99% accuracy in differenciating between cat and dog.
 
